@@ -89,6 +89,7 @@ export class snipstake extends Contract {
   //TODO: Keep only this action
   @action("stake.unstk")
   unstake(account: Name): void {
+    
     requireAuth(account);
     const now: TimePoint = new TimePoint(currentTime());
     const accountToUpdate: AccountRow = this.accountTable.requireGet(account.N, `Cannot find ${account.toString()}`);
@@ -131,6 +132,18 @@ export class snipstake extends Contract {
     requireAuth(this.receiver);
 
   }
+  @action('admin.rst')
+  reset(account: Name):void {
+    requireAuth(this.receiver);
+    const now: TimePoint = new TimePoint(currentTime());
+    const accountToUpdate: AccountRow = this.accountTable.requireGet(account.N, `Cannot find ${account.toString()}`);
+    if (!accountToUpdate) return;
+    accountToUpdate.level = '';
+    accountToUpdate.stakesAmount.amount = 0;
+    accountToUpdate.releaseFundDate = now.msSinceEpoch();
+    this.accountTable.update(accountToUpdate, this.receiver);
+
+  }
 
   
   //#################
@@ -140,8 +153,10 @@ export class snipstake extends Contract {
   private getAccountLevel(amount: u64): string  {
 
     //TODO: Define level amount more clearly
+    if (amount >= 999999999) return ACCOUNT_LEVEL_GUARDIAN;
     if (amount >= 999999999) return ACCOUNT_LEVEL_VISIONARY;
     return '';
+    100000000
     
   }
 }
