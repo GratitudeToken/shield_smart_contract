@@ -1,0 +1,13 @@
+{
+  "account": "snipstake",
+  "name": "reward.updt",
+  "authorization": [
+    {
+      "actor": "crotte",
+      "permission": "active"
+    }
+  ],
+  "data": {
+    "account": "crotte"
+  }
+}

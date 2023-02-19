@@ -1,0 +1,3 @@
+export const STAKING_DURATION_DAY: i64 = 1000 * 60 * 60 * 24;
+//export const STAKING_DURATION_YEAR: i64 = 31556952000;
+export const STAKING_DURATION_YEAR: i64 = 600000;

@@ -1,0 +1,4015 @@
+{
+    "rewards": 204645499.95512742,
+    "rewardBase": 24886159519,
+    "count": 501,
+    "rows": [
+        {
+            "key": 0,
+            "stakeAmount": 99025409,
+            "createdDate": "1665098151500",
+            "type": "staking.stake",
+            "stake": 814315.9950060535,
+            "days": 30.01505787037037
+        },
+        {
+            "key": 1,
+            "stakeAmount": 12158805,
+            "createdDate": "1665098160000",
+            "type": "staking.stake",
+            "stake": 99985.21630981259,
+            "days": 30.01495949074074
+        },
+        {
+            "key": 2,
+            "stakeAmount": 49632774,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 408143.63421632425,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 3,
+            "stakeAmount": 59679146,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 490757.65008352353,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 4,
+            "stakeAmount": 15919870,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 130913.36780917048,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 5,
+            "stakeAmount": 14260377,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 117266.91105507991,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 6,
+            "stakeAmount": 3320974,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 27309.261366248098,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 7,
+            "stakeAmount": 46614799,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 383326.01502635085,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 8,
+            "stakeAmount": 26367408,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 216826.2794657534,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 9,
+            "stakeAmount": 15213546,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 125105.07580650685,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 10,
+            "stakeAmount": 51001873,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 419402.1030954147,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 11,
+            "stakeAmount": 14250788,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 117188.05813203957,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 12,
+            "stakeAmount": 4953400,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 40733.13890791476,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 13,
+            "stakeAmount": 99435218,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 817682.5104237063,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 14,
+            "stakeAmount": 29121763,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 239476.08057543758,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 15,
+            "stakeAmount": 8774416,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 72154.37997412481,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 16,
+            "stakeAmount": 40254750,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 331025.62350171234,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 17,
+            "stakeAmount": 42536321,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 349787.5947681697,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 18,
+            "stakeAmount": 75783223,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 623185.8015400495,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 19,
+            "stakeAmount": 6709993,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 55178.07504746956,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 20,
+            "stakeAmount": 55574226,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 457001.7901558219,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 21,
+            "stakeAmount": 93004566,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 764801.5314628995,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 22,
+            "stakeAmount": 62989334,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 517978.2152741629,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 23,
+            "stakeAmount": 90296915,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 742535.7898920282,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 24,
+            "stakeAmount": 41366522,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 340168.02333009895,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 25,
+            "stakeAmount": 71037940,
+            "createdDate": "1665098162500",
+            "type": "staking.stake",
+            "stake": 584164.0646328006,
+            "days": 30.014930555555555
+        },
+        {
+            "key": 26,
+            "stakeAmount": 46491781,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 382314.33125190093,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 27,
+            "stakeAmount": 50811948,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 417840.21823613014,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 28,
+            "stakeAmount": 98231701,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 807785.5110681109,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 29,
+            "stakeAmount": 49037884,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 403251.6161828324,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 30,
+            "stakeAmount": 63090052,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 518806.3464169647,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 31,
+            "stakeAmount": 56649503,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 465843.9919777984,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 32,
+            "stakeAmount": 83309032,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 685072.4186350964,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 33,
+            "stakeAmount": 98303287,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 808374.1818638587,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 34,
+            "stakeAmount": 8360372,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 68749.57167584349,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 35,
+            "stakeAmount": 69255307,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 569504.8847741518,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 36,
+            "stakeAmount": 82573036,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 679020.1269721016,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 37,
+            "stakeAmount": 48941358,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 402457.8571066115,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 38,
+            "stakeAmount": 6213792,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 51097.67107047184,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 39,
+            "stakeAmount": 55539946,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 456719.80844865233,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 40,
+            "stakeAmount": 71071050,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 584436.2243752378,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 41,
+            "stakeAmount": 65060905,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 535013.1969717069,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 42,
+            "stakeAmount": 21827174,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 179490.68096420914,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 43,
+            "stakeAmount": 1469052,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 12080.406920833335,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 44,
+            "stakeAmount": 65024778,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 534716.115002635,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 45,
+            "stakeAmount": 58835694,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 483821.6244146785,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 46,
+            "stakeAmount": 72597489,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 596988.5399228359,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 47,
+            "stakeAmount": 23187908,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 190680.3600436517,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 48,
+            "stakeAmount": 19445197,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 159903.04796274574,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 49,
+            "stakeAmount": 60083324,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 494081.2190965817,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 50,
+            "stakeAmount": 62306933,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 512366.54974030785,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 51,
+            "stakeAmount": 46007357,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 378330.7833296915,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 52,
+            "stakeAmount": 51465738,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 423216.5080072013,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 53,
+            "stakeAmount": 71186740,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 585387.574141394,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 54,
+            "stakeAmount": 21216593,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 174469.71033952784,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 55,
+            "stakeAmount": 26460665,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 217593.1148767044,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 56,
+            "stakeAmount": 64281332,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 528602.5600000444,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 57,
+            "stakeAmount": 88666961,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 729132.0996899083,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 58,
+            "stakeAmount": 14853672,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 122145.71167568493,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 59,
+            "stakeAmount": 35748346,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 293968.1961065671,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 60,
+            "stakeAmount": 56523947,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 464811.5114588296,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 61,
+            "stakeAmount": 47904032,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 393927.6483804668,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 62,
+            "stakeAmount": 29317983,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 241089.60386567254,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 63,
+            "stakeAmount": 14795978,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 121671.2785059329,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 64,
+            "stakeAmount": 51196818,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 421005.1070294616,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 65,
+            "stakeAmount": 93601904,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 769713.453904135,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 66,
+            "stakeAmount": 69158900,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 568712.1042667112,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 67,
+            "stakeAmount": 33172603,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 272787.17353998125,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 68,
+            "stakeAmount": 68561087,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 563796.1283158502,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 69,
+            "stakeAmount": 5891051,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 48443.68563630295,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 70,
+            "stakeAmount": 95144091,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 782395.2694613917,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 71,
+            "stakeAmount": 3275165,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 26932.556460132862,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 72,
+            "stakeAmount": 92752907,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 762731.9248401081,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 73,
+            "stakeAmount": 73286473,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 602654.239354812,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 74,
+            "stakeAmount": 67504010,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 555103.501842006,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 75,
+            "stakeAmount": 61525786,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 505942.96934629313,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 76,
+            "stakeAmount": 50275628,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 413429.9156465816,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 77,
+            "stakeAmount": 89313171,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 734446.0570966657,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 78,
+            "stakeAmount": 69196932,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 569024.851559532,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 79,
+            "stakeAmount": 47759374,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 392738.08701412036,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 80,
+            "stakeAmount": 98775927,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 812260.8268070348,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 81,
+            "stakeAmount": 67327915,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 553655.4256290986,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 82,
+            "stakeAmount": 86256935,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 709313.8122706827,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 83,
+            "stakeAmount": 2480407,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 20397.049178166224,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 84,
+            "stakeAmount": 75006162,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 616795.7012617295,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 85,
+            "stakeAmount": 54905850,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 451505.46769905824,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 86,
+            "stakeAmount": 33586723,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 276192.59289481386,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 87,
+            "stakeAmount": 27832750,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 228876.1362605435,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 88,
+            "stakeAmount": 26747241,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 219949.70585765317,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 89,
+            "stakeAmount": 66390475,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 545946.6061564957,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 90,
+            "stakeAmount": 61795157,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 508158.0790174769,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 91,
+            "stakeAmount": 62596342,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 514746.4372368373,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 92,
+            "stakeAmount": 50446306,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 414833.44642182585,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 93,
+            "stakeAmount": 16826294,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 138367.109189856,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 94,
+            "stakeAmount": 72145098,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 593268.407914355,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 95,
+            "stakeAmount": 69234391,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 569332.8869203276,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 96,
+            "stakeAmount": 65004488,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 534549.2649139903,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 97,
+            "stakeAmount": 5161377,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 42443.381467660765,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 98,
+            "stakeAmount": 19314198,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 158825.8082011701,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 99,
+            "stakeAmount": 80365156,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 660864.1400959602,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 100,
+            "stakeAmount": 50791306,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 417670.4735574803,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 101,
+            "stakeAmount": 29313821,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 241055.37862816942,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 102,
+            "stakeAmount": 62145045,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 511035.30148251995,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 103,
+            "stakeAmount": 13650832,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 112254.4371253932,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 104,
+            "stakeAmount": 12296327,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 101115.98077646657,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 105,
+            "stakeAmount": 59786233,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 491638.16046249843,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 106,
+            "stakeAmount": 77570895,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 637886.1856579861,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 107,
+            "stakeAmount": 87873609,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 722608.1543214279,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 108,
+            "stakeAmount": 26488629,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 217823.07031676656,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 109,
+            "stakeAmount": 42949496,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 353185.1756947362,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 110,
+            "stakeAmount": 80034023,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 658141.1450046249,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 111,
+            "stakeAmount": 94825592,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 779776.1671260907,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 112,
+            "stakeAmount": 37200576,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 305910.27122891933,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 113,
+            "stakeAmount": 73951849,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 608125.8038980388,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 114,
+            "stakeAmount": 84289829,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 693137.7742976139,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 115,
+            "stakeAmount": 6323951,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 52003.53794651985,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 116,
+            "stakeAmount": 8002325,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 65805.2555748589,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 117,
+            "stakeAmount": 67341784,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 553769.4741199518,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 118,
+            "stakeAmount": 6778236,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 55739.24482281203,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 119,
+            "stakeAmount": 70328644,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 578331.2215703895,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 120,
+            "stakeAmount": 17780333,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 146212.42667238554,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 121,
+            "stakeAmount": 73851121,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 607297.4906536323,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 122,
+            "stakeAmount": 665180,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 5469.952782883054,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 123,
+            "stakeAmount": 93479431,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 768706.3257175117,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 124,
+            "stakeAmount": 27984505,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 230124.0581532138,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 125,
+            "stakeAmount": 10334822,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 84986.00132220003,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 126,
+            "stakeAmount": 14872613,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 122301.4685770659,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 127,
+            "stakeAmount": 15221924,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 125173.94621701547,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 128,
+            "stakeAmount": 41487684,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 341164.3052274163,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 129,
+            "stakeAmount": 45985461,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 378150.7266741486,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 130,
+            "stakeAmount": 29394770,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 241721.04387339865,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 131,
+            "stakeAmount": 24941244,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 205098.51021733257,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 132,
+            "stakeAmount": 54755283,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 450267.3150476551,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 133,
+            "stakeAmount": 64599458,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 531218.5950567321,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 134,
+            "stakeAmount": 34211665,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 281331.6578577419,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 135,
+            "stakeAmount": 77204496,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 634873.1888305175,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 136,
+            "stakeAmount": 26484378,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 217788.11320849505,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 137,
+            "stakeAmount": 193578,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 1591.8435909151444,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 138,
+            "stakeAmount": 55621569,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 457391.01617588,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 139,
+            "stakeAmount": 42384802,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 348541.546125631,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 140,
+            "stakeAmount": 32389234,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 266345.3210465595,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 141,
+            "stakeAmount": 58322091,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 479598.129782929,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 142,
+            "stakeAmount": 72510950,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 596276.9066147419,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 143,
+            "stakeAmount": 62419402,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 513291.4123632642,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 144,
+            "stakeAmount": 28147344,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 231463.12673797563,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 145,
+            "stakeAmount": 59507840,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 489348.8604759006,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 146,
+            "stakeAmount": 75342688,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 619563.0444323187,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 147,
+            "stakeAmount": 42524265,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 349688.38761960145,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 148,
+            "stakeAmount": 26381396,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 216941.26472013572,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 149,
+            "stakeAmount": 20318586,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 167085.15895689686,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 150,
+            "stakeAmount": 4552183,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 37433.81651439149,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 151,
+            "stakeAmount": 40920914,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 336503.60415589483,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 152,
+            "stakeAmount": 33804005,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 277979.36080811615,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 153,
+            "stakeAmount": 58875201,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 484146.50102641265,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 154,
+            "stakeAmount": 8959330,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 73674.96326748795,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 155,
+            "stakeAmount": 20209238,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 166185.96115043442,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 156,
+            "stakeAmount": 70245639,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 577648.649288085,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 157,
+            "stakeAmount": 1364060,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 11217.029665683664,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 158,
+            "stakeAmount": 47310694,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 389048.4715496988,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 159,
+            "stakeAmount": 99474251,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 818003.3315533501,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 160,
+            "stakeAmount": 18611075,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 153043.83999623446,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 161,
+            "stakeAmount": 73717378,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 606197.6862472445,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 162,
+            "stakeAmount": 71065720,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 584392.3943618087,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 163,
+            "stakeAmount": 89977430,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 739908.4362505866,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 164,
+            "stakeAmount": 80604742,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 662834.3197577657,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 165,
+            "stakeAmount": 83283303,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 684860.8421969131,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 166,
+            "stakeAmount": 8867268,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 72917.91285542237,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 167,
+            "stakeAmount": 45508523,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 374228.7381291492,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 168,
+            "stakeAmount": 74276971,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 610799.3689310772,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 169,
+            "stakeAmount": 38428434,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 316007.2754745148,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 170,
+            "stakeAmount": 62747193,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 515986.9252960854,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 171,
+            "stakeAmount": 87519332,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 719694.839937259,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 172,
+            "stakeAmount": 89763746,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 738151.2556521659,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 173,
+            "stakeAmount": 30924335,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 254299.06535382578,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 174,
+            "stakeAmount": 38609083,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 317492.8004456129,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 175,
+            "stakeAmount": 29544131,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 242949.2792647276,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 176,
+            "stakeAmount": 38244794,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 314497.1547116407,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 177,
+            "stakeAmount": 19893032,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 163585.71476650177,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 178,
+            "stakeAmount": 90316777,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 742698.9772575516,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 179,
+            "stakeAmount": 96496255,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 793514.4751421312,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 180,
+            "stakeAmount": 8422495,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 69260.42569540367,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 181,
+            "stakeAmount": 86087053,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 707916.8272160182,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 182,
+            "stakeAmount": 74869256,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 615669.8866616312,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 183,
+            "stakeAmount": 15880794,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 130592.01018475076,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 184,
+            "stakeAmount": 4790001,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 39389.45744003519,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 185,
+            "stakeAmount": 53250900,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 437896.3718783295,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 186,
+            "stakeAmount": 10516382,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 86479.01768958967,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 187,
+            "stakeAmount": 22546778,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 185408.17683355845,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 188,
+            "stakeAmount": 5413495,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 44516.615112260595,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 189,
+            "stakeAmount": 22140376,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 182066.22465389397,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 190,
+            "stakeAmount": 10395743,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 85486.97097475425,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 191,
+            "stakeAmount": 21104619,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 173548.91823376616,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 192,
+            "stakeAmount": 1244842,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 10236.668213340308,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 193,
+            "stakeAmount": 98547434,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 810381.8678467245,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 194,
+            "stakeAmount": 54672715,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 449588.3363330559,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 195,
+            "stakeAmount": 13647345,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 112225.76259315544,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 196,
+            "stakeAmount": 5325324,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 43791.56143232496,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 197,
+            "stakeAmount": 54591534,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 448920.7632898688,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 198,
+            "stakeAmount": 73644029,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 605594.5178316701,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 199,
+            "stakeAmount": 32947317,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 270934.58659713186,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 200,
+            "stakeAmount": 79227579,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 651509.5406237966,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 201,
+            "stakeAmount": 11785500,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 96915.31393407534,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 202,
+            "stakeAmount": 29022742,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 238661.75827565006,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 203,
+            "stakeAmount": 95512612,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 785425.7160615614,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 204,
+            "stakeAmount": 35932280,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 295480.7345099569,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 205,
+            "stakeAmount": 77572092,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 637896.0289086568,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 206,
+            "stakeAmount": 85706505,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 704787.4793829195,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 207,
+            "stakeAmount": 75526539,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 621074.9003045424,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 208,
+            "stakeAmount": 82184445,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 675824.6394020405,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 209,
+            "stakeAmount": 14641989,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 120404.98583465087,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 210,
+            "stakeAmount": 39268915,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 322918.77519625984,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 211,
+            "stakeAmount": 56425608,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 464002.84359942924,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 212,
+            "stakeAmount": 22265178,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 183092.5048294996,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 213,
+            "stakeAmount": 76650993,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 630321.5858430794,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 214,
+            "stakeAmount": 78053911,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 641858.1552201754,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 215,
+            "stakeAmount": 52577034,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 432354.9917977645,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 216,
+            "stakeAmount": 86962319,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 715114.3732824407,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 217,
+            "stakeAmount": 77646651,
+            "createdDate": "1665098163000",
+            "type": "staking.stake",
+            "stake": 638509.1474773735,
+            "days": 30.01492476851852
+        },
+        {
+            "key": 218,
+            "stakeAmount": 73924189,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 607898.23112513,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 219,
+            "stakeAmount": 2217367,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 18233.997495126205,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 220,
+            "stakeAmount": 5395224,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 44366.35924573821,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 221,
+            "stakeAmount": 22459000,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 184686.31928906645,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 222,
+            "stakeAmount": 32887613,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 270443.57251762116,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 223,
+            "stakeAmount": 87142832,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 716598.6417251648,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 224,
+            "stakeAmount": 30102420,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 247540.1910812405,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 225,
+            "stakeAmount": 15663899,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 128808.39984085172,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 226,
+            "stakeAmount": 90940372,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 747826.8212947361,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 227,
+            "stakeAmount": 33753200,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 277561.524209792,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 228,
+            "stakeAmount": 91106246,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 749190.8472320333,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 229,
+            "stakeAmount": 30357384,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 249636.82773964992,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 230,
+            "stakeAmount": 74736659,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 614579.3876250983,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 231,
+            "stakeAmount": 15042345,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 123697.19629218988,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 232,
+            "stakeAmount": 69817613,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 574128.7664864187,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 233,
+            "stakeAmount": 10601704,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 87180.6264727803,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 234,
+            "stakeAmount": 48521987,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 399009.18044534186,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 235,
+            "stakeAmount": 94245210,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 775003.3815185502,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 236,
+            "stakeAmount": 8319685,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 68414.9784182046,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 237,
+            "stakeAmount": 98299124,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 808339.79255085,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 238,
+            "stakeAmount": 8191948,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 67364.5631563039,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 239,
+            "stakeAmount": 63975308,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 526085.9414891299,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 240,
+            "stakeAmount": 90551467,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 744628.752235423,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 241,
+            "stakeAmount": 17115573,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 140745.90052510466,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 242,
+            "stakeAmount": 58890558,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 484272.69236828387,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 243,
+            "stakeAmount": 41266337,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 339344.0443061676,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 244,
+            "stakeAmount": 75520104,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 621021.8638446728,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 245,
+            "stakeAmount": 82035054,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 674596.0272469749,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 246,
+            "stakeAmount": 17390674,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 143008.1290803716,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 247,
+            "stakeAmount": 38377097,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 315585.0567669743,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 248,
+            "stakeAmount": 24501005,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 201478.26850407472,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 249,
+            "stakeAmount": 75834896,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 623610.4820298833,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 250,
+            "stakeAmount": 98930722,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 813533.5905779363,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 251,
+            "stakeAmount": 97023859,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 797852.9499056665,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 252,
+            "stakeAmount": 16746540,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 137711.2441972983,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 253,
+            "stakeAmount": 37972487,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 312257.841323386,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 254,
+            "stakeAmount": 44043879,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 362184.50953840377,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 255,
+            "stakeAmount": 30539030,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 251130.5510200089,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 256,
+            "stakeAmount": 50462028,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 414962.65261952055,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 257,
+            "stakeAmount": 34938694,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 287310.15609007486,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 258,
+            "stakeAmount": 61497814,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 505712.8506159501,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 259,
+            "stakeAmount": 32925249,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 270753.0633370149,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 260,
+            "stakeAmount": 78598445,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 646335.8791083365,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 261,
+            "stakeAmount": 20966700,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 172414.74022165145,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 262,
+            "stakeAmount": 88512835,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 727864.5400948598,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 263,
+            "stakeAmount": 83698367,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 688273.8916129599,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 264,
+            "stakeAmount": 56151796,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 461751.1253711441,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 265,
+            "stakeAmount": 99032076,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 814367.0514268265,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 266,
+            "stakeAmount": 18783230,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 154459.48675631025,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 267,
+            "stakeAmount": 66249900,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 544790.5153510275,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 268,
+            "stakeAmount": 91884054,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 755586.9689041288,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 269,
+            "stakeAmount": 91689303,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 753985.4797297281,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 270,
+            "stakeAmount": 59477417,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 489098.58972131216,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 271,
+            "stakeAmount": 74121486,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 609520.6567334284,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 272,
+            "stakeAmount": 43302962,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 356091.7523529237,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 273,
+            "stakeAmount": 27793501,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 228553.337185404,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 274,
+            "stakeAmount": 36006810,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 296093.5575155061,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 275,
+            "stakeAmount": 76115826,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 625920.6439996004,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 276,
+            "stakeAmount": 7820126,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 64306.97214108955,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 277,
+            "stakeAmount": 37694613,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 309972.80965295853,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 278,
+            "stakeAmount": 55381098,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 455413.47111657157,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 279,
+            "stakeAmount": 20394263,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 167707.43880329467,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 280,
+            "stakeAmount": 26967025,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 221757.00562920157,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 281,
+            "stakeAmount": 20509842,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 168657.87560355786,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 282,
+            "stakeAmount": 64112266,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 527212.1834819698,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 283,
+            "stakeAmount": 93333437,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 767505.6300871797,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 284,
+            "stakeAmount": 15487254,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 127355.80111113015,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 285,
+            "stakeAmount": 37700732,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 310023.1278143962,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 286,
+            "stakeAmount": 95124002,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 782229.9214313102,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 287,
+            "stakeAmount": 62107312,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 510724.9144760528,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 288,
+            "stakeAmount": 90866408,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 747218.5956871894,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 289,
+            "stakeAmount": 3501853,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 28796.66687124873,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 290,
+            "stakeAmount": 94334527,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 775737.8589209253,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 291,
+            "stakeAmount": 8059579,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 66276.05772872591,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 292,
+            "stakeAmount": 49229177,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 404824.5915561676,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 293,
+            "stakeAmount": 85917958,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 706526.1776505011,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 294,
+            "stakeAmount": 56719863,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 466422.49111937784,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 295,
+            "stakeAmount": 19429277,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 159772.10274623605,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 296,
+            "stakeAmount": 96777253,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 795825.0433000921,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 297,
+            "stakeAmount": 54941837,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 451801.31130103057,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 298,
+            "stakeAmount": 96451576,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 793146.9148701929,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 299,
+            "stakeAmount": 1211918,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 9965.923447177829,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 300,
+            "stakeAmount": 89699582,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 737623.4757267821,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 301,
+            "stakeAmount": 34263601,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 281758.68713118025,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 302,
+            "stakeAmount": 85364682,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 701976.4422218987,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 303,
+            "stakeAmount": 64707809,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 532109.4916723776,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 304,
+            "stakeAmount": 47961197,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 394397.6553999651,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 305,
+            "stakeAmount": 95044221,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 781573.8610884988,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 306,
+            "stakeAmount": 75845864,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 623700.6748056062,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 307,
+            "stakeAmount": 49602545,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 407894.8957398053,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 308,
+            "stakeAmount": 2300205,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 18915.196360492773,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 309,
+            "stakeAmount": 73387914,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 603488.2994328578,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 310,
+            "stakeAmount": 62129620,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 510908.35908225516,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 311,
+            "stakeAmount": 41273479,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 339402.7748681856,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 312,
+            "stakeAmount": 14403357,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 118442.62833324772,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 313,
+            "stakeAmount": 67231509,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 552862.5467500667,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 314,
+            "stakeAmount": 33348315,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 274232.0473681982,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 315,
+            "stakeAmount": 26492269,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 217852.96100564752,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 316,
+            "stakeAmount": 49770568,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 409276.59347460675,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 317,
+            "stakeAmount": 66632912,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 547940.1247069001,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 318,
+            "stakeAmount": 48349825,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 397593.4466147419,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 319,
+            "stakeAmount": 15204478,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 125030.45899334729,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 320,
+            "stakeAmount": 8750671,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 71959.09071194509,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 321,
+            "stakeAmount": 65454463,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 538249.4257318842,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 322,
+            "stakeAmount": 19498020,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 160337.39468474127,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 323,
+            "stakeAmount": 71454819,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 587591.946060664,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 324,
+            "stakeAmount": 65488999,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 538533.4244283073,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 325,
+            "stakeAmount": 40274171,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 331185.1998935153,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 326,
+            "stakeAmount": 44514563,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 366055.0690249461,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 327,
+            "stakeAmount": 91641963,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 753596.190342171,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 328,
+            "stakeAmount": 68818906,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 565916.1336942986,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 329,
+            "stakeAmount": 43407729,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 356953.2792068779,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 330,
+            "stakeAmount": 77571656,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 637892.3205751649,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 331,
+            "stakeAmount": 53472156,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 439715.7342753805,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 332,
+            "stakeAmount": 92832979,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 763390.2310944032,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 333,
+            "stakeAmount": 77917134,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 640733.2778847222,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 334,
+            "stakeAmount": 81986791,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 674199.147785385,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 335,
+            "stakeAmount": 38526934,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 316817.2061958587,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 336,
+            "stakeAmount": 19947914,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 164036.99248207128,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 337,
+            "stakeAmount": 79496159,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 653718.0196504028,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 338,
+            "stakeAmount": 69283651,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 569737.8552071886,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 339,
+            "stakeAmount": 50637654,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 416406.8718417238,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 340,
+            "stakeAmount": 10053705,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 82674.28521608638,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 341,
+            "stakeAmount": 76985389,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 633071.2913952975,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 342,
+            "stakeAmount": 84017811,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 690900.7644291571,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 343,
+            "stakeAmount": 58294944,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 479374.80032602744,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 344,
+            "stakeAmount": 37841638,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 311181.835259329,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 345,
+            "stakeAmount": 76084523,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 625663.231120456,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 346,
+            "stakeAmount": 17336122,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 142559.53350221337,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 347,
+            "stakeAmount": 37463319,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 308070.81768832763,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 348,
+            "stakeAmount": 99683203,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 819721.4416053622,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 349,
+            "stakeAmount": 36006906,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 296094.34694899165,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 350,
+            "stakeAmount": 24663634,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 202815.60994490742,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 351,
+            "stakeAmount": 4731367,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 38907.286897713726,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 352,
+            "stakeAmount": 56808045,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 467147.63511543954,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 353,
+            "stakeAmount": 22504647,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 185061.68668817545,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 354,
+            "stakeAmount": 58933057,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 484622.1729276795,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 355,
+            "stakeAmount": 2700217,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 22204.60122942986,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 356,
+            "stakeAmount": 71485404,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 587843.4546351979,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 357,
+            "stakeAmount": 24931949,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 205022.03542066526,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 358,
+            "stakeAmount": 36084988,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 296736.43596376205,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 359,
+            "stakeAmount": 51966161,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 427331.5375872939,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 360,
+            "stakeAmount": 3309122,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 27211.788693106293,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 361,
+            "stakeAmount": 76858842,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 632030.6618193113,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 362,
+            "stakeAmount": 59822999,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 491940.40225047886,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 363,
+            "stakeAmount": 34502679,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 283724.6889942637,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 364,
+            "stakeAmount": 74160015,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 609837.4909288908,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 365,
+            "stakeAmount": 989266,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 8134.996942776511,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 366,
+            "stakeAmount": 22809402,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 187567.76795781965,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 367,
+            "stakeAmount": 46499260,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 382375.75934214867,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 368,
+            "stakeAmount": 24215925,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 199133.9799826389,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 369,
+            "stakeAmount": 73827537,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 607103.4360705004,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 370,
+            "stakeAmount": 8319469,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 68413.20219286213,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 371,
+            "stakeAmount": 28138578,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 231390.99696550608,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 372,
+            "stakeAmount": 30784979,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 253153.05494016682,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 373,
+            "stakeAmount": 66267905,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 544938.5752458936,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 374,
+            "stakeAmount": 47543832,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 390965.5522052512,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 375,
+            "stakeAmount": 44366980,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 364841.4548364409,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 376,
+            "stakeAmount": 85793170,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 705500.0127984843,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 377,
+            "stakeAmount": 12816351,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 105392.25668581622,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 378,
+            "stakeAmount": 44037272,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 362130.17842341453,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 379,
+            "stakeAmount": 20997027,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 172664.12719369293,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 380,
+            "stakeAmount": 11271060,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 92684.9185576484,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 381,
+            "stakeAmount": 56272111,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 462740.5075566939,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 382,
+            "stakeAmount": 13372161,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 109962.82986913054,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 383,
+            "stakeAmount": 15290268,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 125735.93293839422,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 384,
+            "stakeAmount": 77305249,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 635701.5850899322,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 385,
+            "stakeAmount": 94537477,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 777406.7706489504,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 386,
+            "stakeAmount": 60145782,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 494594.7325500952,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 387,
+            "stakeAmount": 36630317,
+            "createdDate": "1665098163500",
+            "type": "staking.stake",
+            "stake": 301220.8211016394,
+            "days": 30.014918981481483
+        },
+        {
+            "key": 388,
+            "stakeAmount": 96388450,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 792627.6601909722,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 389,
+            "stakeAmount": 25456267,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 209333.60116701387,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 390,
+            "stakeAmount": 43368867,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 356633.637903125,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 391,
+            "stakeAmount": 3700145,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 30427.268762152777,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 392,
+            "stakeAmount": 88733776,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 729681.2559055556,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 393,
+            "stakeAmount": 57623542,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 473853.5920784722,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 394,
+            "stakeAmount": 31327705,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 257615.98524826384,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 395,
+            "stakeAmount": 69079614,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 568059.8952645833,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 396,
+            "stakeAmount": 34828327,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 286402.5237295139,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 397,
+            "stakeAmount": 8314971,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 68376.20076145833,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 398,
+            "stakeAmount": 27071512,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 222616.18704722222,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 399,
+            "stakeAmount": 17329466,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 142504.77197152778,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 400,
+            "stakeAmount": 69304805,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 569911.700282986,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 401,
+            "stakeAmount": 97094081,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 798430.2501121528,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 402,
+            "stakeAmount": 25895478,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 212945.34912291664,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 403,
+            "stakeAmount": 11966978,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 98407.61804652779,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 404,
+            "stakeAmount": 27561590,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 226646.2277673611,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 405,
+            "stakeAmount": 43230270,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 355493.91819791665,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 406,
+            "stakeAmount": 23936263,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 196834.2071628472,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 407,
+            "stakeAmount": 65778412,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 540913.2400680555,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 408,
+            "stakeAmount": 27280737,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 224336.699434375,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 409,
+            "stakeAmount": 43011688,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 353696.4607305555,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 410,
+            "stakeAmount": 30679056,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 252281.97335,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 411,
+            "stakeAmount": 78864173,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 648520.905957986,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 412,
+            "stakeAmount": 32781932,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 269574.4776236111,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 413,
+            "stakeAmount": 92601483,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 761486.4312114583,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 414,
+            "stakeAmount": 15487019,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 127353.84408923611,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 415,
+            "stakeAmount": 93430126,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 768300.5812701387,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 416,
+            "stakeAmount": 35359468,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 290770.2363347222,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 417,
+            "stakeAmount": 32887374,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 270441.55501458334,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 418,
+            "stakeAmount": 93108010,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 765651.7363993055,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 419,
+            "stakeAmount": 26582686,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 218596.44185347224,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 420,
+            "stakeAmount": 82238701,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 676270.5402024304,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 421,
+            "stakeAmount": 51204513,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 421068.2227010416,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 422,
+            "stakeAmount": 98333734,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 808624.2438618055,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 423,
+            "stakeAmount": 15828660,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 130163.2481875,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 424,
+            "stakeAmount": 31375249,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 258006.9521065972,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 425,
+            "stakeAmount": 13591777,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 111768.76898993054,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 426,
+            "stakeAmount": 40995151,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 337113.9448378472,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 427,
+            "stakeAmount": 65496482,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 538594.855279861,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 428,
+            "stakeAmount": 49750824,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 409114.1544416667,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 429,
+            "stakeAmount": 38192383,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 314066.04395451385,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 430,
+            "stakeAmount": 53957791,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 443709.1542545138,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 431,
+            "stakeAmount": 70096015,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 576418.0289045139,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 432,
+            "stakeAmount": 17428990,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 143323.18408680556,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 433,
+            "stakeAmount": 56866482,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 467628.08791875,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 434,
+            "stakeAmount": 14888996,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 122436.14314861111,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 435,
+            "stakeAmount": 29855012,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 245505.64208194445,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 436,
+            "stakeAmount": 25209096,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 207301.04880833332,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 437,
+            "stakeAmount": 91325037,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 750989.8789135416,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 438,
+            "stakeAmount": 86682920,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 712816.5258194444,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 439,
+            "stakeAmount": 88220704,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 725462.1294555556,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 440,
+            "stakeAmount": 45400836,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 373343.0552041666,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 441,
+            "stakeAmount": 11488897,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 94476.23182326388,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 442,
+            "stakeAmount": 18355657,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 150943.41136493054,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 443,
+            "stakeAmount": 62670183,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 515353.45277395827,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 444,
+            "stakeAmount": 54354000,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 446967.28541666665,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 445,
+            "stakeAmount": 50875871,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 418365.7128100694,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 446,
+            "stakeAmount": 64191245,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 527861.5469913195,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 447,
+            "stakeAmount": 69275174,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 569668.0367506945,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 448,
+            "stakeAmount": 83482284,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 686496.8513791666,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 449,
+            "stakeAmount": 45412401,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 373438.1572510416,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 450,
+            "stakeAmount": 46469012,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 382126.94833194447,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 451,
+            "stakeAmount": 95857585,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 788262.2172065971,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 452,
+            "stakeAmount": 23776859,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 195523.38600590278,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 453,
+            "stakeAmount": 36909018,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 303512.59489375,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 454,
+            "stakeAmount": 33675131,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 276919.48870590277,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 455,
+            "stakeAmount": 1499311,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 12329.230004513889,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 456,
+            "stakeAmount": 4139578,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 34040.842282638885,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 457,
+            "stakeAmount": 37729714,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 310261.3946743055,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 458,
+            "stakeAmount": 91524052,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 752626.4317763888,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 459,
+            "stakeAmount": 78996747,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 649611.0969447916,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 460,
+            "stakeAmount": 25337583,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 208357.63131562495,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 461,
+            "stakeAmount": 79211879,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 651380.1841517361,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 462,
+            "stakeAmount": 52756480,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 433830.4568888889,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 463,
+            "stakeAmount": 70052417,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 576059.5110454861,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 464,
+            "stakeAmount": 76725655,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 630935.3081128472,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 465,
+            "stakeAmount": 85499734,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 703086.8751118055,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 466,
+            "stakeAmount": 89827728,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 738677.1118833334,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 467,
+            "stakeAmount": 9502255,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 78139.55040451388,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 468,
+            "stakeAmount": 93959809,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 772656.3043565971,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 469,
+            "stakeAmount": 15683256,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 128967.552725,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 470,
+            "stakeAmount": 80769821,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 664191.5523413194,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 471,
+            "stakeAmount": 29128243,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 239529.22880868052,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 472,
+            "stakeAmount": 6122550,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 50347.34432291666,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 473,
+            "stakeAmount": 81130725,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 667159.3611718749,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 474,
+            "stakeAmount": 79571725,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 654339.2927690971,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 475,
+            "stakeAmount": 3220128,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 26479.962299999996,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 476,
+            "stakeAmount": 27859028,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 229092.1389319444,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 477,
+            "stakeAmount": 68625326,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 564324.1651590277,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 478,
+            "stakeAmount": 91402479,
+            "createdDate": "1665098164000",
+            "type": "staking.stake",
+            "stake": 751626.704915625,
+            "days": 30.014913194444443
+        },
+        {
+            "key": 479,
+            "stakeAmount": 49810660,
+            "createdDate": "1665098164500",
+            "type": "staking.stake",
+            "stake": 409606.12268543884,
+            "days": 30.014907407407406
+        },
+        {
+            "key": 480,
+            "stakeAmount": 95845015,
+            "createdDate": "1665098164500",
+            "type": "staking.stake",
+            "stake": 788158.6988182395,
+            "days": 30.014907407407406
+        },
+        {
+            "key": 481,
+            "stakeAmount": 99096620,
+            "createdDate": "1665098164500",
+            "type": "staking.stake",
+            "stake": 814897.4996402841,
+            "days": 30.014907407407406
+        },
+        {
+            "key": 482,
+            "stakeAmount": 41164251,
+            "createdDate": "1665098164500",
+            "type": "staking.stake",
+            "stake": 338504.4334959665,
+            "days": 30.014907407407406
+        },
+        {
+            "key": 483,
+            "stakeAmount": 89306320,
+            "createdDate": "1665098164500",
+            "type": "staking.stake",
+            "stake": 734389.294711314,
+            "days": 30.014907407407406
+        },
+        {
+            "key": 484,
+            "stakeAmount": 74539235,
+            "createdDate": "1665098165000",
+            "type": "staking.stake",
+            "stake": 612955.5631185392,
+            "days": 30.01490162037037
+        },
+        {
+            "key": 485,
+            "stakeAmount": 37345944,
+            "createdDate": "1665098165500",
+            "type": "staking.stake",
+            "stake": 307105.3750568493,
+            "days": 30.014895833333334
+        },
+        {
+            "key": 486,
+            "stakeAmount": 20347501,
+            "createdDate": "1665098165500",
+            "type": "staking.stake",
+            "stake": 167322.77342017693,
+            "days": 30.014895833333334
+        },
+        {
+            "key": 487,
+            "stakeAmount": 37690952,
+            "createdDate": "1665098165500",
+            "type": "staking.stake",
+            "stake": 309942.46524360735,
+            "days": 30.014895833333334
+        },
+        {
+            "key": 488,
+            "stakeAmount": 10607937,
+            "createdDate": "1665098165500",
+            "type": "staking.stake",
+            "stake": 87231.81481138698,
+            "days": 30.014895833333334
+        },
+        {
+            "key": 489,
+            "stakeAmount": 64249253,
+            "createdDate": "1665098166500",
+            "type": "staking.stake",
+            "stake": 528338.0527503742,
+            "days": 30.014884259259258
+        },
+        {
+            "key": 490,
+            "stakeAmount": 80236648,
+            "createdDate": "1665098166500",
+            "type": "staking.stake",
+            "stake": 659806.4939920345,
+            "days": 30.014884259259258
+        },
+        {
+            "key": 491,
+            "stakeAmount": 18021025,
+            "createdDate": "1665098166500",
+            "type": "staking.stake",
+            "stake": 148191.50126252536,
+            "days": 30.014884259259258
+        },
+        {
+            "key": 492,
+            "stakeAmount": 53600367,
+            "createdDate": "1665098166500",
+            "type": "staking.stake",
+            "stake": 440769.5374681697,
+            "days": 30.014884259259258
+        },
+        {
+            "key": 493,
+            "stakeAmount": 92363650,
+            "createdDate": "1665098166500",
+            "type": "staking.stake",
+            "stake": 759529.93548294,
+            "days": 30.014884259259258
+        },
+        {
+            "key": 494,
+            "stakeAmount": 92993785,
+            "createdDate": "1665098166500",
+            "type": "staking.stake",
+            "stake": 764711.6968782026,
+            "days": 30.014884259259258
+        },
+        {
+            "key": 495,
+            "stakeAmount": 24102851,
+            "createdDate": "1665098166500",
+            "type": "staking.stake",
+            "stake": 198203.91317347158,
+            "days": 30.014884259259258
+        },
+        {
+            "key": 496,
+            "stakeAmount": 30138733,
+            "createdDate": "1665098166500",
+            "type": "staking.stake",
+            "stake": 247838.51581252535,
+            "days": 30.014884259259258
+        },
+        {
+            "key": 497,
+            "stakeAmount": 63062738,
+            "createdDate": "1665098167500",
+            "type": "staking.stake",
+            "stake": 518580.8362326548,
+            "days": 30.014872685185185
+        },
+        {
+            "key": 498,
+            "stakeAmount": 98515662,
+            "createdDate": "1665098167500",
+            "type": "staking.stake",
+            "stake": 810119.1924456811,
+            "days": 30.014872685185185
+        },
+        {
+            "key": 499,
+            "stakeAmount": 81067408,
+            "createdDate": "1665098169000",
+            "type": "staking.stake",
+            "stake": 666637.4034569,
+            "days": 30.014855324074073
+        },
+        {
+            "key": 500,
+            "stakeAmount": 42179381,
+            "createdDate": "1665098173500",
+            "type": "staking.stake",
+            "stake": 346850.9100085585,
+            "days": 30.01480324074074
+        }
+    ]
+}

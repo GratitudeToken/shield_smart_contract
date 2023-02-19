@@ -1,0 +1,7 @@
+{
+    "tokenSymbol": "SNIPX",
+    "tokenName": "SNIPX",
+    "tokenPrecision": 4,
+    "tokenContract": "snipx",
+    "rewardPoolAccountName": "snipx"
+}

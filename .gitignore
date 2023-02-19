@@ -1,0 +1,7 @@
+node_modules
+deploy
+target
+token.json
+test.json
+.DS_Store
+**/.DS_Store
